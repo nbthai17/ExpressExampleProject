@@ -32,7 +32,7 @@ jobs:
           context: .
           file: ./Dockerfile
           push: true
-          tags: bsignbkc/express-sample-project:staging
+          tags: nbthai17/new:nbthai
 
 
   pull-and-up:
